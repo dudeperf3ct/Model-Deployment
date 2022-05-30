@@ -1,0 +1,45 @@
+[submodule "exercises/2-github-actions-makefile"]
+	path = exercises/2-github-actions-makefile
+	url = https://github.com/dudeperf3ct/2-github-actions-makefile.git
+[submodule "exercises/3-github-actions-docker"]
+	path = exercises/3-github-actions-docker
+	url = https://github.com/dudeperf3ct/3-github-actions-docker.git
+[submodule "exercises/5-ml-fastapi-gcp-serverless"]
+	path = exercises/5-ml-fastapi-gcp-serverless
+	url = https://github.com/dudeperf3ct/5-ml-fastapi-gcp-serverless.git
+[submodule "exercises/4-ml-fastapi-azure-serverless"]
+	path = exercises/4-ml-fastapi-azure-serverless
+	url = https://github.com/dudeperf3ct/4-ml-fastapi-azure-serverless.git
+[submodule "exercises/6-ml-fastapi-aws-serverless"]
+	path = exercises/6-ml-fastapi-aws-serverless
+	url = https://github.com/dudeperf3ct/6-ml-fastapi-aws-serverless.git
+[submodule "exercises/8-fastapi-tests-gcp-gke"]
+	path = exercises/8-fastapi-tests-gcp-gke
+	url = https://github.com/dudeperf3ct/8-fastapi-tests-gcp-gke.git
+[submodule "exercises/9-fastapi-kubernetes-monitoring"]
+	path = exercises/9-fastapi-kubernetes-monitoring
+	url = https://github.com/dudeperf3ct/9-fastapi-kubernetes-monitoring.git
+[submodule "exercises/10-bentoml-deploy"]
+	path = exercises/10-bentoml-deploy
+	url = https://github.com/dudeperf3ct/10-bentoml-deploy.git
+[submodule "exercises/11-cortex-deploy"]
+	path = exercises/11-cortex-deploy
+	url = https://github.com/dudeperf3ct/11-cortex-deploy.git
+[submodule "exercises/12-serverless-deploy"]
+	path = exercises/12-serverless-deploy
+	url = https://github.com/dudeperf3ct/12-serverless-deploy.git
+[submodule "exercises/13-bodywork-train-deploy"]
+	path = exercises/13-bodywork-train-deploy
+	url = https://github.com/dudeperf3ct/13-bodywork-train-deploy.git
+[submodule "exercises/14-kserve-deploy"]
+	path = exercises/14-kserve-deploy
+	url = https://github.com/dudeperf3ct/14-kserve-deploy.git
+[submodule "exercises/15-mlserver-deploy"]
+	path = exercises/15-mlserver-deploy
+	url = https://github.com/dudeperf3ct/15-mlserver-deploy.git
+[submodule "exercises/16-rayserve-deploy"]
+	path = exercises/16-rayserve-deploy
+	url = https://github.com/dudeperf3ct/16-rayserve-deploy.git
+[submodule "exercises/17-seldon-core-deploy"]
+	path = exercises/17-seldon-core-deploy
+	url = https://github.com/dudeperf3ct/17-seldon-core-deploy.git
