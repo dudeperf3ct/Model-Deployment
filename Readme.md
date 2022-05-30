@@ -54,7 +54,7 @@ There are 5 popular model serving patterns to put ML model into production
 <p align="center">
 <img src="assets/model-as-service.jpg" alt="Model-as-Service" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 2. Model-as-Dependency
@@ -62,7 +62,7 @@ There are 5 popular model serving patterns to put ML model into production
 <p align="center">
 <img src="assets/model-as-dependency.jpg" alt="Model-as-Dependency" style="width:700px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 
@@ -71,7 +71,7 @@ There are 5 popular model serving patterns to put ML model into production
 <p align="center">
 <img src="assets/precompute-serving-pattern.jpg" alt="Precompute-Serving" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 4. Model-on-Demand
@@ -79,7 +79,7 @@ There are 5 popular model serving patterns to put ML model into production
 <p align="center">
 <img src="assets/model-on-demand.jpg" alt="Model-on-Demand" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 5. Hybrid-Serving
@@ -87,7 +87,7 @@ There are 5 popular model serving patterns to put ML model into production
 <p align="center">
 <img src="assets/federated-learning.jpg" alt="Federated Learning" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 There are 2 popular deployment strategies
@@ -97,7 +97,7 @@ There are 2 popular deployment strategies
 <p align="center">
 <img src="assets/infra-cloud.jpg" alt="Docker Containers to Cloud Instances" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 2. Deploying ML Models as Serverless Functions
@@ -105,7 +105,7 @@ There are 2 popular deployment strategies
 <p align="center">
 <img src="assets/infra-lambda.jpg" alt="Serverless Functions" style="width:800px;"/>
 <br>
-<a href="hhttps://ml-ops.org/content/three-levels-of-ml-software">Source</a>
+<a href="https://ml-ops.org/content/three-levels-of-ml-software">Source</a>
 </p>
 
 ## Recommended Readings
